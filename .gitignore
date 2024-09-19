@@ -1,0 +1,48 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS metadata files
+*.Spotlight-V100
+*.Trashes
+._*
+
+# GameMaker Studio 2 cache files
+.idea/
+.gmx/
+*.gmltemp
+*.yyz
+.yyp~
+
+# GameMaker Studio 2 build output
+*.win
+*.zip
+*.exe
+*.dmg
+*.app
+
+# Backup and autosave files
+*.backup
+*.autosave
+*.old
+
+# User-specific settings
+options.ios.*.json
+options.mac.*.json
+options.win.*.json
+options.android.*.json
+options.html5.*.json
+
+# Log files
+*.log
+*.bak
+
+# General binary files
+*.bin
+*.dll
+*.so
+*.o
+*.a
+*.lib
+*.dylib

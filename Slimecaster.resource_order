@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"GOB_EnemySpawner","order":4,"path":"objects/GOB_EnemySpawner/GOB_EnemySpawner.yy",},
+    {"name":"GOB_Restart","order":2,"path":"objects/GOB_Restart/GOB_Restart.yy",},
+    {"name":"OBJ_Enemy","order":1,"path":"objects/OBJ_Enemy/OBJ_Enemy.yy",},
+    {"name":"OBJ_EnemyBig","order":6,"path":"objects/OBJ_EnemyBig/OBJ_EnemyBig.yy",},
+    {"name":"OBJ_Hud","order":5,"path":"objects/OBJ_Hud/OBJ_Hud.yy",},
+    {"name":"OBJ_Maho","order":3,"path":"objects/OBJ_Maho/OBJ_Maho.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
+    {"name":"SPR_Backround","order":8,"path":"sprites/SPR_Backround/SPR_Backround.yy",},
+    {"name":"SPR_Enemy","order":1,"path":"sprites/SPR_Enemy/SPR_Enemy.yy",},
+    {"name":"SPR_EnemyBig","order":5,"path":"sprites/SPR_EnemyBig/SPR_EnemyBig.yy",},
+    {"name":"SPR_HudBar","order":4,"path":"sprites/SPR_HudBar/SPR_HudBar.yy",},
+    {"name":"SPR_Maho","order":3,"path":"sprites/SPR_Maho/SPR_Maho.yy",},
+    {"name":"SPR_Room","order":2,"path":"sprites/SPR_Room/SPR_Room.yy",},
+    {"name":"SPR_RoomVicotry","order":6,"path":"sprites/SPR_RoomVicotry/SPR_RoomVicotry.yy",},
+  ],
+}
