@@ -1,6 +1,6 @@
-<img scr="./public/banner.png" style="width: 100%;" />
+<img src="./public/banner.png" style="width: 100%;" />
 
-# ❤️ 💚 Slimecaster 💜
+# 💚Slimecaster💚
 
 **Slimecaster** is a fast-paced action game made in **GameMaker Studio 2**, where you play as a powerful slime mage fighting for survival against a rival species of red slimes.
 
